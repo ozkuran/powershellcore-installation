@@ -13,7 +13,7 @@ This is a simple installation script for different versions of PowerShell Core. 
 
 #### 1. Download the script using an elevated PowerShell console:
 ```
-wget https://raw.githubusercontent.com/ozkuran/haproxy-installation/master/[VERSION_TO_INSTALL]/ha_install.sh
+wget https://raw.githubusercontent.com/ozkuran/poweshellcore-installation/master/win/x64/[VERSION_TO_INSTALL]/psc_install.ps1
 ```
 #### 2. Enable script execution:
 ```
