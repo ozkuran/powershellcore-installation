@@ -7,6 +7,8 @@ This is a simple installation script for different versions of PowerShell Core. 
 ## Current versions
 
 #### Windows x64
+- 7.0.0-preview.1: https://raw.githubusercontent.com/ozkuran/powershellcore-installation/master/win/x64/7.0.0-preview.1/psc_install.ps1
+- 7.0.0-preview.2: https://raw.githubusercontent.com/ozkuran/powershellcore-installation/master/win/x64/7.0.0-preview.2/psc_install.ps1
 - 7.0.0-preview.3: https://raw.githubusercontent.com/ozkuran/powershellcore-installation/master/win/x64/7.0.0-preview.3/psc_install.ps1
 
 ## Installation procedure (Windows 8-8.1-10 / Windows Server 2012-2012R2-2016-2019)
